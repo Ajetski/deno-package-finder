@@ -1,8 +1,12 @@
 {
 	"name": "deno-package-finder",
 	"displayName": "Deno Package Finder",
+	"publisher": "Ajetski",
 	"description": "A tool for deno.land to search and import packages.",
 	"version": "0.0.1",
+	"repository": {
+		"url": "https://github.com/Ajetski/deno-package-finder"
+	},
 	"engines": {
 		"vscode": "^1.46.0"
 	},
