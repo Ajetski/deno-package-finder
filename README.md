@@ -1,6 +1,6 @@
 ## Deno Package Finder
 
-A VSCode Extension for easily finding and importing paxkages from deno.land/x or the deno standard library.
+A VSCode Extension for easily finding and importing packages from deno.land/x or the deno standard library.
 
 ### Commands:
 * `deno-package-finder.findDenoPackage: Find Deno Package`
